@@ -1,0 +1,191 @@
+﻿  Memory.cpp
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\dxgitype.h(12,1): warning C4005: 'DXGI_STATUS_OCCLUDED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57616): message : see previous definition of 'DXGI_STATUS_OCCLUDED'
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\dxgitype.h(13,1): warning C4005: 'DXGI_STATUS_CLIPPED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57625): message : see previous definition of 'DXGI_STATUS_CLIPPED'
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\dxgitype.h(14,1): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57634): message : see previous definition of 'DXGI_STATUS_NO_REDIRECTION'
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\dxgitype.h(15,1): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57643): message : see previous definition of 'DXGI_STATUS_NO_DESKTOP_ACCESS'
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\dxgitype.h(16,1): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57652): message : see previous definition of 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\dxgitype.h(17,1): warning C4005: 'DXGI_STATUS_MODE_CHANGED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57661): message : see previous definition of 'DXGI_STATUS_MODE_CHANGED'
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\dxgitype.h(18,1): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57670): message : see previous definition of 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\dxgitype.h(21,1): warning C4005: 'DXGI_ERROR_INVALID_CALL': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57685): message : see previous definition of 'DXGI_ERROR_INVALID_CALL'
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\dxgitype.h(22,1): warning C4005: 'DXGI_ERROR_NOT_FOUND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57694): message : see previous definition of 'DXGI_ERROR_NOT_FOUND'
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\dxgitype.h(23,1): warning C4005: 'DXGI_ERROR_MORE_DATA': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57703): message : see previous definition of 'DXGI_ERROR_MORE_DATA'
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\dxgitype.h(24,1): warning C4005: 'DXGI_ERROR_UNSUPPORTED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57712): message : see previous definition of 'DXGI_ERROR_UNSUPPORTED'
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\dxgitype.h(25,1): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57721): message : see previous definition of 'DXGI_ERROR_DEVICE_REMOVED'
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\dxgitype.h(26,1): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57730): message : see previous definition of 'DXGI_ERROR_DEVICE_HUNG'
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\dxgitype.h(27,1): warning C4005: 'DXGI_ERROR_DEVICE_RESET': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57740): message : see previous definition of 'DXGI_ERROR_DEVICE_RESET'
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\dxgitype.h(28,1): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57749): message : see previous definition of 'DXGI_ERROR_WAS_STILL_DRAWING'
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\dxgitype.h(29,1): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57759): message : see previous definition of 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\dxgitype.h(30,1): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57768): message : see previous definition of 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\dxgitype.h(31,1): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57778): message : see previous definition of 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\dxgitype.h(32,1): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57787): message : see previous definition of 'DXGI_ERROR_NONEXCLUSIVE'
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\dxgitype.h(33,1): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57796): message : see previous definition of 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\dxgitype.h(34,1): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57806): message : see previous definition of 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\dxgitype.h(35,1): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57815): message : see previous definition of 'DXGI_ERROR_REMOTE_OUTOFMEMORY'
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\d3d11.h(917,1): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58107): message : see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\d3d11.h(918,1): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58116): message : see previous definition of 'D3D11_ERROR_FILE_NOT_FOUND'
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\d3d11.h(919,1): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58126): message : see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\d3d11.h(920,1): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58135): message : see previous definition of 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\d3d10.h(608,1): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58083): message : see previous definition of 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\d3d10.h(609,1): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58092): message : see previous definition of 'D3D10_ERROR_FILE_NOT_FOUND'
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2630,1): warning C4005: 'XMGLOBALCONST': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\DirectXMath.h(1964): message : see previous definition of 'XMGLOBALCONST'
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2662,52): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2662,64): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2662,76): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2662,88): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2663,52): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2663,64): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2663,76): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2664,52): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2664,64): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2664,76): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2665,52): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2666,64): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2667,76): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2668,88): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2689,46): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2689,58): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2689,70): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2689,82): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2690,88): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2691,88): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2694,88): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2695,88): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2698,64): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2702,76): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2702,88): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2712,65): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2712,91): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2713,52): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2713,78): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2715,52): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2716,52): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2716,65): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2717,52): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2717,65): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2717,78): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2727,54): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2728,56): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2729,58): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2730,54): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2730,65): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2731,56): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2731,67): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2732,54): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2732,67): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2742,60): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2742,79): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2743,70): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamath.h(2754,73): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamathconvert.inl(2254,71): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamathconvert.inl(4523,69): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamathconvert.inl(4577,68): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamathconvert.inl(4639,65): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamathconvert.inl(4707,64): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamathconvert.inl(4770,64): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamathconvert.inl(4832,63): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamathmisc.inl(518,43): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamathmisc.inl(519,40): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Microsoft-DirectX-SDK-June-2010-By-SHBD\Include\xnamathmisc.inl(519,51): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+C:\Users\omar\Desktop\VnHaxLoader_2\Memory.cpp(60,50): warning C4244: 'argument': conversion from '_Ty' to 'DWORD', possible loss of data
+          with
+          [
+              _Ty=DWORD_PTR
+          ]
+C:\Users\omar\Desktop\VnHaxLoader_2\Memory.cpp(63,38): warning C4244: '=': conversion from '_Ty' to 'DWORD', possible loss of data
+          with
+          [
+              _Ty=DWORD_PTR
+          ]
+C:\Users\omar\Desktop\VnHaxLoader_2\Memory.cpp(74,60): warning C4312: 'type cast': conversion from 'INT' to 'LPVOID' of greater size
+C:\Users\omar\Desktop\VnHaxLoader_2\Memory.cpp(76,99): warning C4311: 'type cast': pointer truncation from 'LPVOID' to 'INT'
+C:\Users\omar\Desktop\VnHaxLoader_2\Memory.cpp(76,99): warning C4302: 'type cast': truncation from 'LPVOID' to 'INT'
+C:\Users\omar\Desktop\VnHaxLoader_2\Memory.cpp(77,60): warning C4312: 'type cast': conversion from 'INT' to 'LPVOID' of greater size
+C:\Users\omar\Desktop\VnHaxLoader_2\Memory.cpp(97,57): warning C4312: 'type cast': conversion from 'int' to 'LPCVOID' of greater size
+C:\Users\omar\Desktop\VnHaxLoader_2\Memory.cpp(98,62): warning C4312: 'type cast': conversion from 'INT' to 'LPVOID' of greater size
+C:\Users\omar\Desktop\VnHaxLoader_2\Memory.cpp(105,52): warning C4312: 'type cast': conversion from 'INT' to 'LPVOID' of greater size
+C:\Users\omar\Desktop\VnHaxLoader_2\Memory.cpp(124,60): warning C4312: 'type cast': conversion from 'int' to 'LPCVOID' of greater size
+C:\Users\omar\Desktop\VnHaxLoader_2\Memory.cpp(139,63): warning C4312: 'type cast': conversion from 'int' to 'LPCVOID' of greater size
+C:\Users\omar\Desktop\VnHaxLoader_2\Memory.cpp(152,14): warning C4244: 'argument': conversion from 'DWORD_PTR' to 'int', possible loss of data
+C:\Users\omar\Desktop\VnHaxLoader_2\Memory.cpp(219,40): warning C4312: 'type cast': conversion from 'DWORD' to 'void *' of greater size
+C:\Users\omar\Desktop\VnHaxLoader_2\Memory.cpp(220,42): warning C4312: 'type cast': conversion from 'DWORD' to 'void *' of greater size
+C:\Users\omar\Desktop\VnHaxLoader_2\Memory.cpp(222,40): warning C4312: 'type cast': conversion from 'DWORD' to 'void *' of greater size
+C:\Users\omar\Desktop\VnHaxLoader_2\Memory.cpp(218,16): warning C4101: 'OldProtect2': unreferenced local variable
+C:\Users\omar\Desktop\VnHaxLoader_2\Memory.cpp(254,20): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\omar\Desktop\VnHaxLoader_2\Memory.cpp(245,10): warning C4101: 'posi': unreferenced local variable
+C:\Users\omar\Desktop\VnHaxLoader_2\Memory.cpp(366,58): warning C4244: 'argument': conversion from 'INT' to 'float', possible loss of data
+C:\Users\omar\Desktop\VnHaxLoader_2\Memory.cpp(366,39): warning C4244: 'argument': conversion from 'INT' to 'float', possible loss of data
+C:\Users\omar\Desktop\VnHaxLoader_2\Memory.cpp(368,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\omar\Desktop\VnHaxLoader_2\Memory.cpp(380,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\omar\Desktop\VnHaxLoader_2\Memory.cpp(350,12): warning C4101: 'headdist': unreferenced local variable
+C:\Users\omar\Desktop\VnHaxLoader_2\Memory.cpp(349,10): warning C4101: 'retval': unreferenced local variable
+C:\Users\omar\Desktop\VnHaxLoader_2\Memory.cpp(358,11): warning C4101: 'head': unreferenced local variable
+C:\Users\omar\Desktop\VnHaxLoader_2\Memory.cpp(459,30): warning C4244: 'argument': conversion from 'SIZE_T' to 'int', possible loss of data
+C:\Users\omar\Desktop\VnHaxLoader_2\Memory.cpp(462,20): warning C4244: 'return': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=DWORD_PTR
+          ]
+C:\Users\omar\Desktop\VnHaxLoader_2\Memory.cpp(486,58): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPVOID' of greater size
+C:\Users\omar\Desktop\VnHaxLoader_2\Memory.cpp(487,60): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPVOID' of greater size
+C:\Users\omar\Desktop\VnHaxLoader_2\Memory.cpp(488,58): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPVOID' of greater size
+C:\Users\omar\Desktop\VnHaxLoader_2\Memory.cpp(522,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\omar\Desktop\VnHaxLoader_2\Memory.cpp(496,12): warning C4101: 'headdist': unreferenced local variable
+C:\Users\omar\Desktop\VnHaxLoader_2\Memory.cpp(495,10): warning C4101: 'retval': unreferenced local variable
+C:\Users\omar\Desktop\VnHaxLoader_2\Memory.cpp(503,11): warning C4101: 'head': unreferenced local variable
+C:\Users\omar\Desktop\VnHaxLoader_2\Memory.cpp(556,31): warning C4244: '=': conversion from '_Ty' to 'DWORD', possible loss of data
+          with
+          [
+              _Ty=DWORD_PTR
+          ]
+C:\Users\omar\Desktop\VnHaxLoader_2\Memory.cpp(613,59): warning C4312: 'type cast': conversion from 'INT' to 'LPVOID' of greater size
+C:\Users\omar\Desktop\VnHaxLoader_2\Memory.cpp(627,58): warning C4312: 'type cast': conversion from 'INT' to 'LPVOID' of greater size
+C:\Users\omar\Desktop\VnHaxLoader_2\Memory.cpp(658,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\omar\Desktop\VnHaxLoader_2\Memory.cpp(936,15): warning C4551: function call missing argument list
+C:\Users\omar\Desktop\VnHaxLoader_2\Memory.cpp(565,10): warning C4101: 'AimRotation': unreferenced local variable
+C:\Users\omar\Desktop\VnHaxLoader_2\Utility.h(25,1): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Users\omar\Desktop\VnHaxLoader_2\Memory.cpp(60): message : see reference to function template instantiation 'T Utility::ReadMemoryEx<BYTE>(DWORD)' being compiled
+          with
+          [
+              T=BYTE
+          ]
+C:\Users\omar\Desktop\VnHaxLoader_2\Utility.h(33,1): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+C:\Users\omar\Desktop\VnHaxLoader_2\Memory.cpp(81): message : see reference to function template instantiation 'void Utility::WriteMemoryEx<BYTE>(DWORD,T)' being compiled
+          with
+          [
+              T=BYTE
+          ]
+  Generating code
+  322 of 5187 functions ( 6.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    35 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ImGui Loader Base.vcxproj -> C:\Users\omar\Desktop\VnHaxLoader_2\x64\Release\BOSS_eXtreme.exe
